@@ -57,7 +57,7 @@ for alg in algorithms:
     alg_values[alg] = {}
 
 num_graphs = 1
-graphnames = ['spa_500_{}'.format(graphidx) for graphidx in range(10)]
+graphnames = ['spa_500_{}'.format(graphidx) for graphidx in range(1)]
 print(graphnames)
 
 for graphname in graphnames:
